@@ -23,7 +23,7 @@ Cat++ uses two main scripts:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/cat-plus-plus.git
+   git clone https://github.com/skillman1337/cat-plus-plus.git
    ```
 2. **Install dependencies:**
    ```bash
