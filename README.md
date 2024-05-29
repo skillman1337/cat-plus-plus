@@ -49,6 +49,17 @@ Cat++ uses two main scripts:
    npm run dev
    ```
 
+### Showcase
+
+Check out some screenshots of Cat++ in action:
+
+#### Desktop View
+![Desktop Page](https://github.com/skillman1337/cat-plus-plus/blob/main/showcase/desktop_page.png?raw=true)
+
+#### Mobile Views
+![Mobile Landing](https://github.com/skillman1337/cat-plus-plus/blob/main/showcase/mobile_landing.png?raw=true)
+![Mobile Page](https://github.com/skillman1337/cat-plus-plus/blob/main/showcase/mobile_page.png?raw=true)
+
 ### Contributing
 
 We welcome contributions from the community! Feel free to open issues, submit pull requests, or share your ideas. Let's make Cat++ the purr-fect C++ learning resource! 😸
