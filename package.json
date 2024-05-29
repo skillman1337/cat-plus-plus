@@ -1,0 +1,48 @@
+{
+  "name": "cat-plus-plus",
+  "version": "1.0.0",
+  "description": "An AI-powered tutorial generator for coding",
+  "main": "index.js",
+  "private": false,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "generate-topics": "node scripts/generateTopics",
+    "generate-content": "node scripts/generateContent"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/skillman1337/cat-plus-plus.git"
+  },
+  "keywords": [
+    "c++",
+    "tutorial",
+    "generator",
+    "ai",
+    "gemini",
+    "nextjs",
+    "react"
+  ],
+  "author": "Your Name Here",
+  "license": "MIT",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.5.2",
+    "@google/generative-ai": "^0.11.4",
+    "@monaco-editor/react": "^4.6.0",
+    "axios": "^0.21.1",
+    "dotenv": "^16.4.5",
+    "next": "^14.2.3",
+    "prop-types": "^15.8.1",
+    "react": "^18.3.1",
+    "react-icons": "^5.2.1",
+    "react-lottie": "^1.2.4",
+    "react-syntax-highlighter": "^15.5.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.2.6",
+    "postcss": "^8.3.5",
+    "tailwindcss": "^2.2.4"
+  }
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "category": "memory-management-techniques",
+    "title": "Essential Memory Management Techniques",
+    "chapters": [
+      "RAII (Resource Acquisition Is Initialization)",
+      "Smart Pointers (unique_ptr, shared_ptr, weak_ptr)",
+      "Custom Memory Allocation Strategies",
+      "Memory Pooling"
+    ]
+  },
+  {
+    "category": "debugging-and-tools",
+    "title": "Debugging Memory Issues",
+    "chapters": [
+      "Common Memory-Related Errors",
+      "Using Debuggers for Memory Inspection",
+      "Memory Leak Detection Tools",
+      "Analyzing Memory Usage Profiles"
+    ]
+  },
+  {
+    "category": "advanced-topics",
+    "title": "Advanced Memory Management",
+    "chapters": [
+      "Custom Memory Allocators",
+      "Garbage Collection in C++",
+      "Memory-Mapped Files",
+      "Optimizing for Cache Locality"
+    ]
+  }
+]
